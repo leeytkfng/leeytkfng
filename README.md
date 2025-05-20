@@ -39,9 +39,9 @@ Back-end Developer | Java - Spring / Front-end Developer React.Ts, React.Js / Da
 - Email: dydtn61498@naver.com  
 - Blog: [https://velog.io/SpringAuto](https://velog.io/@dydtn61498/posts)
 
-## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeytkfng&layout=compact)
 
-![Yong-Su's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeytkfng&show_icons=true&theme=default&hide_title=true)
+
 
 <!--
 **leeytkfng/leeytkfng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
