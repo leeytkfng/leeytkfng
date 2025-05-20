@@ -41,6 +41,9 @@ Back-end Developer | Java - Spring / Front-end Developer React.Ts, React.Js / Da
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeytkfng&layout=compact)
 
+## 🧠 Dev Mindset  
+> "Jsut Do It Instead of Thinking."  
+
 
 
 <!--
