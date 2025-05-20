@@ -21,7 +21,7 @@ Back-end Developer | Java - Spring / Front-end Developer React.Ts, React.Js / Da
 
 ## 📫 Contact  
 - Email: dydtn61498@naver.com  
-- Blog: https://velog.io/SpringAuto
+- Blog: [https://velog.io/SpringAuto](https://velog.io/@dydtn61498/posts)
 
 <!--
 **leeytkfng/leeytkfng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
