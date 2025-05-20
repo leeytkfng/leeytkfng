@@ -6,12 +6,17 @@ Back-end Developer | Java - Spring / Front-end Developer React.Ts, React.Js / Da
 - 문제 해결(트러블 슈팅) & 리팩토링 강점
 - 팀 중심 협업과 안정적인 시스템 설계를 지향
 
-## 🛠️ Tech Stack  
-- **Backend**: Java, Spring Boot, JPA, Spring Security  
-- **Frontend**: React, TypeScript  
-- **DB**: PostgreSQL, Redis  
-- **Infra**: Docker, Kafka, GitHub Actions
+## 🛠 Tech Stack
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
   
 ## 🚀 Projects  
 - [항공편 예약 시스템](https://github.com/너의아이디/flight-reservation)  
