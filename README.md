@@ -32,7 +32,6 @@ Backend Developer | Java · Spring Boot · React · PostgreSQL
 ## 🚀 Projects  
 - [항공편 예약 시스템](https://github.com/leeytkfng/flight-reservation)  
   → 마이크로서비스 기반 항공권 예약 시스템
-  →   
 - [블로그 플랫폼](https://github.com/leeytkfng/blog-platform)  
   → 대용량 CRUD, 북마크, 마크다운 에디터 등 
 
